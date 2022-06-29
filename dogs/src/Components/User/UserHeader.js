@@ -17,7 +17,7 @@ const UserHeader = () => {
                 setTitle("Poste Sua Foto");
             break;
             case "/conta":
-                setTitle("Minca Conta");
+                setTitle("Minha Conta");
             break;
         }
     },[location])
