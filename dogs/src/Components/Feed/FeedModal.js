@@ -30,4 +30,4 @@ const FeedModal = ({photo, setModalPhoto}) => {
   )
 }
 
-export default FeedModal
+export default FeedModal;
